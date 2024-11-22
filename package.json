@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/team-04/",
+    "build": "vite build --base=/113_html-css_Syvyj/",
     "preview": "vite preview"
   },
   "devDependencies": {
